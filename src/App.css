@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.multiplication-table {
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+.multiplication-table td {
+  padding: 8px;
+  border: 1px solid #ccc;
+}
